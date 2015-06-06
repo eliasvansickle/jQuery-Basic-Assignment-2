@@ -42,5 +42,75 @@ blockquote, q {
 	}
 
 /*====================MY CODE BELOW======================================*/
+#wrapper {
+	margin: 0 auto;
+	max-width: 1000px;
+	min-height: 200px;
+	background-color: red;
+}
+	#top {
+		background-color: blue;
+		max-width: 100%;
+		min-height: 200px;
+	}
+	#bottom {
+		background-color: purple;
+		max-width: 100%;
+		min-height: 200px;
+	}
+	img {
+		display: inline-block;
+		width: 200px;
+		height: 200px;
+		margin: 20px 10px;
+		padding-left: 20px;
+	}
+	button {
+		padding: 10px;
+		border-radius:30px;
+		background:green;
+		border: 3px solid black;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
