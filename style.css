@@ -7,7 +7,7 @@ dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
 	font-weight: inherit;
 	font-style: inherit;
 	font-size: 100%;
-	outline: 1px dotted red;
+	/*outline: 1px dotted red;*/
 	padding: 0;
 	margin: 0;
 	border: 0;
@@ -46,15 +46,15 @@ blockquote, q {
 	margin: 0 auto;
 	max-width: 1000px;
 	min-height: 200px;
-	background-color: red;
+	background-color: black;
 }
 	#top {
-		background-color: blue;
+		/*background-color: blue;*/
 		max-width: 100%;
 		min-height: 200px;
 	}
 	#bottom {
-		background-color: purple;
+		/*background-color: purple;*/
 		max-width: 100%;
 		min-height: 200px;
 	}
@@ -70,6 +70,7 @@ blockquote, q {
 		border-radius:30px;
 		background:green;
 		border: 3px solid black;
+		font-size: 18px;
 	}
 
 
