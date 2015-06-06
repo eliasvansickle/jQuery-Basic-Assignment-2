@@ -1,27 +1,27 @@
 $(document).ready(function() {
 	$("img.tone").click(function(){
-		$("img.tone").hide("img.tone");
+		$(this).hide(this);
 	});
 	$("img.ttwo").click(function(){
-		$("img.ttwo").hide("img.ttwo");
+		$(this).hide(this);
 	});
 	$("img.tthree").click(function(){
-		$("img.tthree").hide("img.tthree");
+		$(this).hide(this);
 	});
 	$("img.tfour").click(function(){
-		$("img.tfour").hide("img.tfour");
+		$(this).hide(this);
 	});
 	$("img.bone").click(function(){
-		$("img.bone").hide("img.bone");
+		$(this).hide(this);
 	});
 	$("img.btwo").click(function(){
-		$("img.btwo").hide("img.btwo");
+		$(this).hide(this);
 	});
 	$("img.bthree").click(function(){
-		$("img.bthree").hide("img.bthree");
+		$(this).hide(this);
 	});
 	$("img.bfour").click(function(){
-		$("img.bfour").hide("img.bfour");
+		$(this).hide(this);
 	});
 	$("button").click(function() {
 		$("img").show();
